@@ -1,8 +1,8 @@
 Hi, I’m @Nathanure.
 I'm a junior developer with (currently) 1 year experience on programming.
-- 👀 I’m interested in Software and Game Development
-- 🌱 I’m currently learning on how to develop on the web (Web development)
-- 💞️ I’m open to collaborate with anyone who wants to, unless its out of my grasp of understanding
+- I’m interested in Software and Game Development
+- I’m currently learning on how to develop on the web (Web development)
+- I’m open to collaborate with anyone who wants to, unless its out of my grasp of understanding
 
 You can email and find me on my other socials:
 - Email: nathancadankelas6a@gmail.com
