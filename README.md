@@ -4,10 +4,8 @@ I'm a junior developer with 2 year experience on programming.
 - I’m currently learning on how to develop on the web (Web development)
 - I’m open to collaborate with anyone who wants to. Hit me up!
 
-You can email and find me on my other socials:
-- Email: noneunother@gmail.com
-- Twitter: @noneunother
-- Discord: Noneunother#0262
+You can email:
+- Email: nathanca.vijita.work@gmail.com
 
 Happy to learn and develop.
 
