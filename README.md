@@ -2,7 +2,7 @@ Hi, I’m Nathan.
 I'm a junior developer with 2 year experience on programming.
 - I’m interested in Software and Game Development
 - I’m currently learning on how to develop on the web (Web development)
-- I’m open to collaborate with anyone who wants to, unless its out of my grasp of understanding
+- I’m open to collaborate with anyone who wants to. Hit me up!
 
 You can email and find me on my other socials:
 - Email: noneunother@gmail.com
